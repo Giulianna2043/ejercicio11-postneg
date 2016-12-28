@@ -1,18 +1,17 @@
-# ejercicio11-postneg# ejercicio10-enteros
+# ejercicio11-postneg# 
 
-# Inicio: Evaluar enteros
+# Inicio: Post-neg
 
 # Ingreso datos
 
 - a
 - b
-- suma
 
 # Proceso
 
 - Obtener valor a
 - Obtener valor b
-- Si a=10 o b=10
+- Si a==10 o b==10
     - Mostrar 1  
 - Si (a+b)=10
     - Mostrar 1
