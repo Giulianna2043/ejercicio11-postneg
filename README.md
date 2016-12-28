@@ -1,4 +1,4 @@
-# ejercicio11-postneg# 
+# ejercicio11-postneg
 
 # Inicio: Post-neg
 
@@ -11,13 +11,12 @@
 
 - Obtener valor a
 - Obtener valor b
-- Si a==10 o b==10
+- Si a es menor que 0 y b es menor que 0
     - Mostrar 1  
-- Si (a+b)=10
+- Si a es menor que 0 o b es menor que 0
     - Mostrar 1
 - Si no
     - Mostrar 0
 
-# Fin 
-
+ *Fin* 
 
