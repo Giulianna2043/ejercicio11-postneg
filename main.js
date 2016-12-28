@@ -5,9 +5,13 @@ function calcular()
 	var a = document.getElementById("a").value;
     var salida = document.getElementById("salida");
    
-    if (a>0 && b>0)
+    if (a<0 && b<0)
     {
         salida.innerHTML="1";
+    }
+    if (a<0 || b<0)
+    {
+        salida.innerHTML="1";   
     }
     else {
         salida.innerHTML="0";
